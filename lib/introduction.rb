@@ -1,6 +1,6 @@
 # lib/introduction.rb
 
-def introduction(name, language)
+def introduction_with_language(name, language)
   puts "Hi, my name is #{name}."
-  puts "I speak #{language}"
+  puts "I use #{language}"
 end
