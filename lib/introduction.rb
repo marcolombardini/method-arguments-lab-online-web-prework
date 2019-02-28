@@ -1,6 +1,5 @@
 # lib/introduction.rb
 
 def introduction_with_language(name, language)
-  puts "Hi, my name is #{name}."
-  puts "I use #{language}"
+  puts "Hi, my name is #{name} and I line #{language)."
 end
